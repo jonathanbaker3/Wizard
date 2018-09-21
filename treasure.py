@@ -25,6 +25,5 @@ class TreasureBox:
                 name = "Black Sapphire",
                 description = "The darkest stone in the world of wizardry.",                
                 base_value = 350
-                
             )
         ]
